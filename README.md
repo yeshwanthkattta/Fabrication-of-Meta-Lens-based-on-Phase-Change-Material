@@ -32,10 +32,21 @@ A thin film of Sb₂Se₃ is deposited onto the substrate. In this study, we exp
 Using electron beam lithography (EBL), we patterned the desired meta-lens structures onto the Sb₂Se₃ layer. The precision of EBL allows for the creation of nanoscale features essential for meta-lens functionality.
 
 <img width="320" alt="image" src="https://github.com/user-attachments/assets/c6e6636b-f036-428c-ad8f-c1cc099a70e0" />
+
 ### 4. Etching
 
 Post-lithography, the samples underwent etching to define the meta-lens structures. Various etch rates (10, 20, and 30 nm/min) were tested to optimize the feature definition and lens performance.
 
+
+<img width="315" alt="image" src="https://github.com/user-attachments/assets/c139cb54-8a02-4a77-99bd-8e9aed583cb9" />
+
+
+<img width="423" alt="image" src="https://github.com/user-attachments/assets/f91a190f-4ab6-4636-bdcb-028e880f134c" />
+
+
+We then measured the thickness of the amount of PR etched.
+From the below graph in profilometer, we can observe that we have etched around 350 nm (which includes 300nm of photoresist and some part of PCM).
+So, our etch rate is nm/sec.
 
 
 ### 5. Finalization
