@@ -16,7 +16,7 @@ Antimony triselenide (Sb2Se3) has also been suggested as an ultralow-loss chalco
 
 ## Fabrication Process
 
-<img width="553" alt="image" src=(https://github.com/user-attachments/assets/701b88b4-5269-4c36-9cc5-643d81a1bbc6) />
+src=(https://github.com/user-attachments/assets/701b88b4-5269-4c36-9cc5-643d81a1bbc6)
 
 
 ### 1. Substrate Preparation
