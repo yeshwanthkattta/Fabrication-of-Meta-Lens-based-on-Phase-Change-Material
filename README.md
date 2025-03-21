@@ -11,9 +11,7 @@ This repository documents the design, fabrication, and testing of a meta-lens ut
 Different types of PCM used in metalenses are: Ge2Sb2Te5 (GST), Sb2Se3, GeTe, In2Se3, AgInSbTe(AIST), chalcogenide glasses.
 	We are using Sb2Se3 in our project due to its high refractive index, broadband response, fast switching speed, and compatibility with fabrication techniques.
 Antimony triselenide (Sb2Se3) has also been suggested as an ultralow-loss chalcogenide PCM for photonics, enhanced meta-displays, and active metalenses.
-![image](https://github.com/user-attachments/assets/1ab0e054-b1eb-4ab1-ac6f-14308975d6f6)
 
-![image](https://github.com/user-attachments/assets/4ebded85-22fe-4aba-b4e4-addaa4308165)
 
 ## Fabrication Process
 ![image](https://github.com/user-attachments/assets/701b88b4-5269-4c36-9cc5-643d81a1bbc6)
