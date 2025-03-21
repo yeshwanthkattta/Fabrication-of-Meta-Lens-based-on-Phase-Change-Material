@@ -43,7 +43,7 @@ Post-lithography, the samples underwent etching to define the meta-lens structur
 <img width="315" alt="image" src="https://github.com/user-attachments/assets/c139cb54-8a02-4a77-99bd-8e9aed583cb9" />
 
 
-<img width="315" alt="image" src="https://github.com/user-attachments/assets/f91a190f-4ab6-4636-bdcb-028e880f134c" />
+<img width="453" alt="image" src="https://github.com/user-attachments/assets/f91a190f-4ab6-4636-bdcb-028e880f134c" />
 
 
 We then measured the thickness of the amount of PR etched.
