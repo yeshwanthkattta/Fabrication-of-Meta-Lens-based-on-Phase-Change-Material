@@ -16,7 +16,8 @@ Antimony triselenide (Sb2Se3) has also been suggested as an ultralow-loss chalco
 
 ## Fabrication Process
 
-src=(https://github.com/user-attachments/assets/701b88b4-5269-4c36-9cc5-643d81a1bbc6)
+<img width="553" alt="Screenshot 2025-03-21 at 7 00 13 PM" src="https://github.com/user-attachments/assets/aed30f09-a1b5-4d29-b066-bb13bfa7a47c" />
+
 
 
 ### 1. Substrate Preparation
@@ -68,16 +69,8 @@ The fabricated meta-lenses were subjected to optical testing to evaluate their f
 - **Optimized Focal Lengths**: Achieved by adjusting PCM thickness and etch parameters.
 - **Enhanced Efficiency**: A 15% improvement compared to initial designs.
 
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/497ab0ac-58d6-49e2-86f5-02b0405e2f8b" />
 
-<img width="553" alt="image" src=(https://github.com/user-attachments/assets/3e524a3e-414d-4025-8915-fe9542fb10fe)>
-
-
-
-<img width="553" alt="image" src=(https://github.com/user-attachments/assets/060da0cb-670d-41bd-8844-08c1c479ddd1)>
-
-
-
-<img width="553" alt="image" src=(https://github.com/user-attachments/assets/ecca278c-9363-45d8-b9d4-29aaef35d525)>
 
 
 
