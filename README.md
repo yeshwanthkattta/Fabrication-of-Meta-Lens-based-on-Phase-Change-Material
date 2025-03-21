@@ -1,6 +1,7 @@
 # Fabrication of Meta-Lens Based on Phase-Change Material
 
 This repository documents the design, fabrication, and testing of a meta-lens utilizing antimony selenide (Sb₂Se₃) as the phase-change material (PCM). The project focuses on optimizing focal lengths by varying PCM thickness and etch rates, achieving a notable improvement in lens performance.
+
 <img width="553" alt="image" src="https://github.com/user-attachments/assets/fe0fc4c0-f38e-4a24-803d-8421fbd47e7d" />
 
 
