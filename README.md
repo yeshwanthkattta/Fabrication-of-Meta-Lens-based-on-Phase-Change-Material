@@ -67,7 +67,15 @@ The fabricated meta-lenses were subjected to optical testing to evaluate their f
 - **Optimized Focal Lengths**: Achieved by adjusting PCM thickness and etch parameters.
 - **Enhanced Efficiency**: A 15% improvement compared to initial designs.
 
-*Present comparative images or data highlighting the performance enhancements.*
+
+![image](https://github.com/user-attachments/assets/3e524a3e-414d-4025-8915-fe9542fb10fe)
+
+
+![image](https://github.com/user-attachments/assets/060da0cb-670d-41bd-8844-08c1c479ddd1)
+
+
+![image](https://github.com/user-attachments/assets/ecca278c-9363-45d8-b9d4-29aaef35d525)
+
 
 ## Conclusion
 
