@@ -15,7 +15,8 @@ Antimony triselenide (Sb2Se3) has also been suggested as an ultralow-loss chalco
 
 
 ## Fabrication Process
-![image](https://github.com/user-attachments/assets/701b88b4-5269-4c36-9cc5-643d81a1bbc6)
+
+<img width="553" alt="image" src=(https://github.com/user-attachments/assets/701b88b4-5269-4c36-9cc5-643d81a1bbc6) />
 
 
 ### 1. Substrate Preparation
@@ -31,7 +32,7 @@ A thin film of Sb₂Se₃ is deposited onto the substrate. In this study, we exp
 
 Using electron beam lithography (EBL), we patterned the desired meta-lens structures onto the Sb₂Se₃ layer. The precision of EBL allows for the creation of nanoscale features essential for meta-lens functionality.
 
-<img width="320" alt="image" src="https://github.com/user-attachments/assets/c6e6636b-f036-428c-ad8f-c1cc099a70e0" />
+<img width="553" alt="image" src="https://github.com/user-attachments/assets/c6e6636b-f036-428c-ad8f-c1cc099a70e0" />
 
 ### 4. Etching
 
@@ -41,7 +42,7 @@ Post-lithography, the samples underwent etching to define the meta-lens structur
 <img width="315" alt="image" src="https://github.com/user-attachments/assets/c139cb54-8a02-4a77-99bd-8e9aed583cb9" />
 
 
-<img width="423" alt="image" src="https://github.com/user-attachments/assets/f91a190f-4ab6-4636-bdcb-028e880f134c" />
+<img width="315" alt="image" src="https://github.com/user-attachments/assets/f91a190f-4ab6-4636-bdcb-028e880f134c" />
 
 
 We then measured the thickness of the amount of PR etched.
@@ -68,13 +69,16 @@ The fabricated meta-lenses were subjected to optical testing to evaluate their f
 - **Enhanced Efficiency**: A 15% improvement compared to initial designs.
 
 
-![image](https://github.com/user-attachments/assets/3e524a3e-414d-4025-8915-fe9542fb10fe)
+<img width="553" alt="image" src=(https://github.com/user-attachments/assets/3e524a3e-414d-4025-8915-fe9542fb10fe)>
 
 
-![image](https://github.com/user-attachments/assets/060da0cb-670d-41bd-8844-08c1c479ddd1)
+
+<img width="553" alt="image" src=(https://github.com/user-attachments/assets/060da0cb-670d-41bd-8844-08c1c479ddd1)>
 
 
-![image](https://github.com/user-attachments/assets/ecca278c-9363-45d8-b9d4-29aaef35d525)
+
+<img width="553" alt="image" src=(https://github.com/user-attachments/assets/ecca278c-9363-45d8-b9d4-29aaef35d525)>
+
 
 
 ## Conclusion
